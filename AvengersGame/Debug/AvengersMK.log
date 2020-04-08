@@ -1,0 +1,4 @@
+﻿  AvengersMK.cpp
+F:\CppTests\AvengersMK\AvengersMK.cpp(53,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\CppTests\AvengersMK\AvengersMK.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AvengersMK.vcxproj -> F:\CppTests\AvengersMK\Debug\AvengersMK.exe
